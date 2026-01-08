@@ -1,0 +1,32 @@
+EmpID,FirstName,LastName,Email,Phone,Department,Designation,Salary,JoinDate,City,State,Country,ZipCode,Gender,Age,Experience,Manager,Performance,Project,Remarks
+E001,John,Doe,john.doe@example.com,9876543210,IT,Engineer,60000,2018-05-20,New York,NY,USA,10001,Male,30,5,David,Excellent,Project A,Top performer
+E002,Alice,Smith,alice.smith@example.com,9123456789,HR,Recruiter,45000,2019-03-14,London,London,UK,SW1A1AA,Female,27,3,Mary,Good,Project B,Consistent
+E003,Robert,Brown,robert.brown@example.com,9988776655,Finance,Analyst,55000,2017-09-10,Sydney,NSW,Australia,2000,Male,35,7,James,Excellent,Project C,Dependable
+E004,Emma,Wilson,emma.wilson@example.com,9765432189,Marketing,Manager,70000,2020-01-25,San Francisco,CA,USA,94101,Female,29,4,John,Outstanding,Project D,Creative
+E005,David,Johnson,david.johnson@example.com,9654321876,IT,Architect,90000,2015-07-12,Berlin,Berlin,Germany,10115,Male,40,10,Peter,Excellent,Project E,Leader
+E006,Linda,Anderson,linda.anderson@example.com,9543218765,Sales,Executive,50000,2016-11-18,Paris,Ile-de-France,France,75001,Female,32,6,Laura,Good,Project F,Team player
+E007,Michael,Clark,michael.clark@example.com,9432109876,Finance,Manager,80000,2014-05-22,Chicago,IL,USA,60601,Male,38,9,Chris,Excellent,Project G,Strategic thinker
+E008,Olivia,Lopez,olivia.lopez@example.com,9321098765,HR,Coordinator,48000,2021-02-17,Madrid,Madrid,Spain,28001,Female,26,2,Mary,Good,Project H,Quick learner
+E009,William,Martinez,william.martinez@example.com,9210987654,IT,Tester,52000,2018-09-30,Rome,Lazio,Italy,00100,Male,31,5,David,Average,Project I,Needs improvement
+E010,Sophia,Garcia,sophia.garcia@example.com,9109876543,Marketing,Executive,47000,2020-11-05,Tokyo,Tokyo,Japan,1000001,Female,28,3,Emma,Good,Project J,Creative
+E011,James,Lee,james.lee@example.com,9098765432,Operations,Supervisor,62000,2017-07-08,Toronto,ON,Canada,M5H2N2,Male,36,8,Robert,Excellent,Project K,Dependable
+E012,Isabella,Walker,isabella.walker@example.com,9988776622,Finance,Accountant,58000,2019-04-12,Mexico City,CDMX,Mexico,01000,Female,30,4,Michael,Good,Project L,Organized
+E013,Benjamin,Hall,benjamin.hall@example.com,9877665544,Sales,Representative,51000,2018-08-19,Singapore,SG,Singapore,018989,Male,33,5,Laura,Excellent,Project M,Active
+E014,Charlotte,Allen,charlotte.allen@example.com,9766554433,IT,Developer,65000,2021-06-09,Dubai,DXB,UAE,00000,Female,25,2,David,Good,Project N,Focused
+E015,Henry,Young,henry.young@example.com,9655443322,Marketing,Designer,59000,2016-10-23,Seoul,Seoul,South Korea,04524,Male,34,6,Emma,Excellent,Project O,Innovative
+E016,Amelia,Hernandez,amelia.hernandez@example.com,9544332211,IT,Engineer,62000,2017-12-01,Delhi,Delhi,India,110001,Female,29,5,David,Good,Project P,Responsible
+E017,Lucas,King,lucas.king@example.com,9433221100,HR,Trainer,53000,2019-03-17,Beijing,Beijing,China,100000,Male,31,4,Mary,Average,Project Q,Consistent
+E018,Mia,Scott,mia.scott@example.com,9322110099,Finance,Consultant,66000,2015-05-15,New Delhi,Delhi,India,110002,Female,35,8,Robert,Excellent,Project R,Leader
+E019,Ethan,Green,ethan.green@example.com,9211009988,Operations,Assistant,47000,2020-08-22,Sydney,NSW,Australia,2001,Male,26,3,James,Good,Project S,Hardworking
+E020,Harper,Baker,harper.baker@example.com,9100998877,IT,Developer,64000,2018-02-13,New York,NY,USA,10002,Female,28,5,David,Excellent,Project T,Performer
+E021,Daniel,Adams,daniel.adams@example.com,9998887776,Sales,Manager,75000,2014-09-18,Paris,Ile-de-France,France,75002,Male,39,10,Laura,Excellent,Project U,Leader
+E022,Ella,Perez,ella.perez@example.com,9887776665,Finance,Analyst,56000,2019-07-23,Berlin,Berlin,Germany,10117,Female,27,3,Robert,Good,Project V,Smart worker
+E023,Matthew,Carter,matthew.carter@example.com,9776665554,IT,Architect,88000,2016-01-11,Chicago,IL,USA,60602,Male,37,9,David,Excellent,Project W,Problem solver
+E024,Abigail,Mitchell,abigail.mitchell@example.com,9665554443,Marketing,Manager,72000,2015-03-19,London,London,UK,SW1A2AA,Female,33,8,Emma,Excellent,Project X,Visionary
+E025,Joseph,Roberts,joseph.roberts@example.com,9554443332,HR,Executive,49000,2018-05-27,Rome,Lazio,Italy,00101,Male,29,5,Mary,Good,Project Y,Dependable
+E026,Sofia,Turner,sofia.turner@example.com,9443332221,Finance,Accountant,57000,2021-09-15,Tokyo,Tokyo,Japan,1000002,Female,26,2,Robert,Good,Project Z,Precise
+E027,Andrew,Phillips,andrew.phillips@example.com,9332221110,Sales,Executive,52000,2017-02-24,Berlin,Berlin,Germany,10119,Male,32,6,Laura,Excellent,Project A1,Strong communicator
+E028,Grace,Campbell,grace.campbell@example.com,9221110009,IT,Tester,53000,2019-11-03,Singapore,SG,Singapore,018990,Female,28,3,David,Good,Project B1,Efficient
+E029,Samuel,Parker,samuel.parker@example.com,9110009998,Operations,Manager,68000,2016-07-14,Madrid,Madrid,Spain,28002,Male,36,8,James,Excellent,Project C1,Organized
+E030,Chloe,Evans,chloe.evans@example.com,9009998887,HR,Specialist,54000,2018-10-21,New York,NY,USA,10003,Female,27,4,Mary,Good,Project D1,Supportive
+E031,js,theming,arasan@example.com,9361741325,HR,Specialist,84000,2018-10-21,New York,NY,USA,10004,Male,27,4,Mary,Good,Project D9,Development
